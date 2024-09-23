@@ -14,7 +14,7 @@
 * `Debug Mode`: When compiled with the dbg argument, a button is displayed to reveal hidden mines.
 
 ## Demonstration
-![showcase]([https://giphy.com/gifs/tPgRopqAVrhYg4Suea](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RrMnd3cTg1YnJ2ZzVvbDV6Ymh1bG5kbDBmNDlyN2gyeDhsdDh4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPgRopqAVrhYg4Suea/giphy.gif))
+![showcase](https://github.com/999ashu/Qt-Minesweeper/blob/main/showcase.gif)
 
 ## `Debug Mode` Demonstration
-![showcasedbg](https://giphy.com/gifs/MQh4HmGGgwYtukk3J0)
+![showcasedbg](https://github.com/999ashu/Qt-Minesweeper/blob/main/showcasedbg.gif)
