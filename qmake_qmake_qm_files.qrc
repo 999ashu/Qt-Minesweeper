@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="minesweeper_en_US.qm">/Users/ashu/Qt/Projects/build-minesweeper-Desktop_Qt_5_12_12_clang_64bit-Release/.qm/minesweeper_en_US.qm</file>
+<file alias="minesweeper_es_ES.qm">/Users/ashu/Qt/Projects/build-minesweeper-Desktop_Qt_5_12_12_clang_64bit-Release/.qm/minesweeper_es_ES.qm</file>
+<file alias="minesweeper_ru_RU.qm">/Users/ashu/Qt/Projects/build-minesweeper-Desktop_Qt_5_12_12_clang_64bit-Release/.qm/minesweeper_ru_RU.qm</file>
+</qresource>
+</RCC>
