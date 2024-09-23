@@ -16,5 +16,5 @@
 ## Demonstration
 ![showcase](https://github.com/999ashu/Qt-Minesweeper/blob/main/showcase.gif)
 
-## `Debug Mode` Demonstration
+## Debug Mode Demonstration
 ![showcasedbg](https://github.com/999ashu/Qt-Minesweeper/blob/main/showcasedbg.gif)
